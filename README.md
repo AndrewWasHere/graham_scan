@@ -3,6 +3,8 @@
 Find the vertices of the convex hull around points on a Cartesian
 plane. Make a pretty picture.
 
+![Convex Hull](convex_hull.png)
+
 Algorithm implemented is Graham's Scan, based on the description in
 Sedgewick, and Wikipedia (see [References](#References)).
 
